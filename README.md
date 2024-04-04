@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/tranquoctrung2703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tranquoctrung2703" height="30" width="40" /></a>
 <a href="https://fb.com/tony.3th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tony.3th" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/trung tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="trung tech" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tranquoctrung270302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="trung tech" height="30" width="40" /></a>
 <a href="https://discord.gg/_.quoctrung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_.quoctrung" height="30" width="40" /></a>
 </p>
 
