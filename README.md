@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Trung</h1>
 <h3 align="center">I'm a passionate data engineer with expertise in building scalable and efficient data processing solutions. I specialize in Hadoop, Spark, Azure, Kafka, Docker, and Python. With a strong background in designing and implementing data pipelines, I thrive in dynamic environments where I can leverage my skills to drive impactful data-driven decisions.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcomputer-coding&psig=AOvVaw1Q0xPSJOCXtvf_uF4DYm5I&ust=1712310444322000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKim0c6jqIUDFQAAAAAdAAAAABAJ">
 - 🌱 I’m currently learning **AWS and devops skills**
+- 📫 How to reach me 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
